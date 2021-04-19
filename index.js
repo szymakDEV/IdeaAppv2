@@ -31,4 +31,4 @@ if (command == "pomoc") {
     }
 });
 
-bot.login('ODI1NzgxNjY0NzE3ODY1MDIw.YGC7Gw.Ym6FneF7U8J7NijF7pVx1-0Nwoo')
+bot.login('YOUR-BOT-TOKEN')
